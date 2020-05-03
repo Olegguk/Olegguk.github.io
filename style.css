@@ -72,10 +72,10 @@ body{
 	padding: 0px 20px;
 }
 .content__title {
-	font-size: 200px;
+	font-size: 120px;
 }
 .content__subtitle {
-	font-size: 120px;
+	font-size: 80px;
 }
 .content__article {
 	background-color: rgba(255,255,255,0.5);
